@@ -1,7 +1,7 @@
 # hpo-jp-adddata
 https://github.com/hpoj/alpha<br>
 This data set is organized by adding synonyms and abbreviations to the hpo-japanese data above.<br>
-The dataset used for the addition is from the manbyo dictionary, the Life Science Dictionary and the ComeJisyo.<br>
+The dataset used for the addition is from the manbyo dictionary and the Life Science Dictionary.<br>
 Confidence levels up to B were used for the manbyo dictionary..<br>
 
 
